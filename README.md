@@ -4,7 +4,7 @@ Basic inventory management app with CRUD capabilities and barcode scanning. User
 - smart parser for stock search
   - ..[company name] to query stocks belonging to a company
   - .[item category] to query stocks belonging to a specific item category
-  - add text "min" to return stock counts that are below minimum wage
+  - add text "min" to return stock counts that are below minimum stock point threshold
 - threading for new client connections
 - event listeners to provide better user experience
 
